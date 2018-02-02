@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">FeedbackForm</string>
-    <string name="company_name">Capgemini India Pvt Ltd.</string>
+    <string name="company_name">XYZ India Pvt Ltd.</string>
     <string name="first_name">First Name</string>
     <string name="enter_first_name">Enter your First Name</string>
     <color name="lightskyblue">#87CEFA</color>
